@@ -1,7 +1,7 @@
 #a { 
-    font-size : 2px;
+    font-size :2px;
     color : red }
-
+	
 #b {
 	color : red }
 
@@ -29,9 +29,6 @@ article {
     margin: 30px auto;
     padding: 25px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1) }
-
-h1 { 
-    color: #b30000 }
 
 .fake-label {  
     background: #b30000;
